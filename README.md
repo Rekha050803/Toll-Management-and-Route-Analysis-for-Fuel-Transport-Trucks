@@ -6,11 +6,11 @@ Efficient toll management is critical in the logistics sector, especially for fu
 ---
 
 ## 🚀 Features  
-✅ **Automated Toll Cost Calculation** – Identifies toll plazas crossed and calculates accurate toll expenses.  
-✅ **Fraud Prevention** – Ensures only legitimate toll claims are reimbursed.  
-✅ **GPS-Based Route Tracking** – Monitors real-time vehicle movement and logs route details.  
-✅ **Interactive Map Visualization** – Displays vehicle journeys, toll plazas crossed, and halt locations.  
-✅ **Data-Driven Insights** – Generates reports for trip analysis and financial reconciliation.  
+ **Automated Toll Cost Calculation** – Identifies toll plazas crossed and calculates accurate toll expenses.  
+ **Fraud Prevention** – Ensures only legitimate toll claims are reimbursed.  
+ **GPS-Based Route Tracking** – Monitors real-time vehicle movement and logs route details.  
+ **Interactive Map Visualization** – Displays vehicle journeys, toll plazas crossed, and halt locations.  
+ **Data-Driven Insights** – Generates reports for trip analysis and financial reconciliation.  
 
 ---
 
@@ -18,16 +18,16 @@ Efficient toll management is critical in the logistics sector, especially for fu
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (for data processing and mapping)  
 - **Libraries Used:**  
-  - 📍 **Folium** – For interactive map generation  
-  - 🌍 **Geopy** – For distance calculations  
-  - 📊 **Pandas** – For data handling and analysis  
-  - 🔢 **NumPy** – For numerical computations  
+  - **Folium** – For interactive map generation  
+  - **Geopy** – For distance calculations  
+  - **Pandas** – For data handling and analysis  
+  - **NumPy** – For numerical computations  
 
 ---
 
 ## 📊 Dataset  
-📌 **Toll Data** – Includes toll plaza locations, latitude/longitude, and charges.  
-📌 **Vehicle Tracking Data** – Contains trip IDs, vehicle numbers, GPS coordinates, and timestamps.  
+ **Toll Data** – Includes toll plaza locations, latitude/longitude, and charges.  
+ **Vehicle Tracking Data** – Contains trip IDs, vehicle numbers, GPS coordinates, and timestamps.  
 
 ---
 
@@ -63,8 +63,20 @@ The system follows a structured process to automate toll management and route an
 ---
 
 ## 🎯 Outcome  
-✅ Accurate toll cost calculation  
-✅ Fraud prevention in toll claims    
-✅ Interactive visualization of routes and tolls  
+- Accurate toll cost calculation  
+- Fraud prevention in toll claims    
+- Interactive visualization of routes and tolls
+
+---
+
+## 📷 Sample Output Screenshots
+
+1. Visualisation of Toll Plaza Locations in Tamilnadu
+
+![img alt](https://github.com/Rekha050803/Toll-Management-and-Route-Analysis-for-Fuel-Transport-Trucks/blob/c768510bdfa00db8de03460d93e2487d7b557f08/Toll%20management/Visualization%20of%20Toll%20plaza%20locations%20in%20Tamilnadu.png)
+
+2. Sample Trip
+
+![img alt](https://github.com/Rekha050803/Toll-Management-and-Route-Analysis-for-Fuel-Transport-Trucks/blob/c768510bdfa00db8de03460d93e2487d7b557f08/Toll%20management/Sample%20Trip.png)
 
 
