@@ -26,8 +26,8 @@ Efficient toll management is critical in the logistics sector, especially for fu
 ---
 
 ## 📊 Dataset  
- -**Toll Data** – Includes toll plaza locations, latitude/longitude, and charges.  
- -**Vehicle Tracking Data** – Contains trip IDs, vehicle numbers, GPS coordinates, and timestamps.  
+ - **Toll Data** – Includes toll plaza locations, latitude/longitude, and charges.  
+ - **Vehicle Tracking Data** – Contains trip IDs, vehicle numbers, GPS coordinates, and timestamps.  
 
 ---
 
